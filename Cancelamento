@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversa: Cancelamento</title>
+    <style>
+        /* Estilos para tornar o layout agradável */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h3{
+            text-align: center;
+        }
+
+        h1 {
+            color: #333333;
+            text-align: center;
+            margin-top: 0;
+        }
+
+        .speaker {
+            margin-bottom: 30px;
+        }
+
+        .speaker h3 {
+            color: #333333;
+            margin-top: 0;
+            margin-bottom: 5px;
+        }
+
+        .speaker p {
+            color: #666666;
+            line-height: 1.5;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Debate sobre a Cultura do Cancelamento</h1>
+        <h3>Léo Lins vs Thais Carla</h3>
+
+        <div class="speaker">
+            <h3>Léo Lins</h3>
+            <p>Acredito que o cancelamento pode criar um ambiente de medo e intolerância. Ao cancelar alguém, muitas
+                vezes sem permitir espaço para o diálogo, estamos criando uma cultura de "ou está comigo ou contra mim".
+                Essa abordagem não é construtiva e pode inibir a liberdade de expressão. É importante permitir que as
+                pessoas cometam erros, aprendam com eles e evoluam. Em vez do cancelamento, deveríamos promover a
+                cultura do diálogo aberto, do debate construtivo e da educação, para que possamos conscientizar as
+                pessoas e incentivá-las a repensar suas visões e comportamentos.</p>
+            <p>Além disso, o cancelamento pode levar a consequências desproporcionais. Muitas vezes, as pessoas são
+                punidas não apenas em suas carreiras, mas também em suas vidas pessoais. Uma única ação condenável não
+                deve definir uma pessoa por completo. Todos nós somos passíveis de erros, e é através do aprendizado e
+                da evolução que podemos construir uma sociedade melhor. Em vez de excluir e punir, devemos oferecer
+                oportunidades para a mudança e a reconciliação.</p>
+        </div>
+
+        <div class="speaker">
+            <h3>Thais Carla</h3>
+            <p>Entendo sua perspectiva, Léo, mas acredito que o cancelamento é uma resposta coletiva às atitudes
+                tóxicas. Ele cria uma conscientização sobre as consequências das ações de uma pessoa. Muitas vezes, o
+                cancelamento é uma forma de proteger as vítimas do preconceito e do discurso de ódio, mostrando
+                solidariedade e apoio a elas.</p>
+            <p>O cancelamento também pode ser uma oportunidade para o indivíduo refletir sobre seus comportamentos e
+                buscar o crescimento pessoal. É importante lembrar que o cancelamento não é uma sentença eterna, mas sim
+                um chamado à responsabilidade. Se a pessoa demonstrar verdadeira mudança e arrependimento, acredito que
+                devemos oferecer uma chance para que ela se redima. No entanto, isso não invalida a necessidade de uma
+                resposta coletiva às ações prejudiciais, para que não sejam perpetuadas impunemente.</p>
+            <p>A cultura do cancelamento não busca apenas punir, mas também criar um ambiente mais inclusivo e justo.
+                Através do cancelamento, estamos mostrando que certas atitudes são inaceitáveis e não serão toleradas.
+                Dessa forma, incentivamos a reflexão e o diálogo em busca de uma sociedade mais igualitária e
+                respeitosa.</p>
+        </div>
+    </div>
+</body>
+
+</html>
